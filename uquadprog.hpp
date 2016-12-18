@@ -49,8 +49,8 @@ s.t.
     
  Author: Angelo Furfaro
   			 DEIS - University of Calabria, Italy
-				 a.furfaro@deis.unical.it
-				 http://www.lis.deis.unical.it/~furfaro
+				 a.furfaro@dimes.unical.it
+				 http://dev.dimes.unical.it/~angelo
  
  The author will be grateful if the researchers using this software will
  acknowledge the contribution of this modified function and of Di Gaspero's
@@ -59,6 +59,7 @@ s.t.
 
 LICENSE
 
+Copyright (2016) Angelo Furfaro
 Copyright (2008) Angelo Furfaro
 Copyright (2006) Luca Di Gaspero
 
@@ -68,8 +69,8 @@ by Luca Di Gaspero, exploiting uBlas data structures for vectors and
 matrices instead of native C++ array.
 
 uquadprog is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
 (at your option) any later version.
 
 uquadprog is distributed in the hope that it will be useful,
