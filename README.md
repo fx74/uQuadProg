@@ -9,4 +9,4 @@ Contributions and bug fixes are welcome.
 
 Copyright (C) 2006 Luca Di Gaspero, [MIT License].
 
-Copyright (C) 2006 - 2016 Angelo Furfaro, [LGPL v3](LICENSE) ![alt tag](https://www.gnu.org/graphics/lgplv3-88x31.png).
+Copyright (C) 2006 - 2016 Angelo Furfaro, [<img src="https://www.gnu.org/graphics/lgplv3-88x31.png" alt="LGPL v3"/>](LICENSE).
