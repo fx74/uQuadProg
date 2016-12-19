@@ -7,6 +7,6 @@ uQuadProg is a porting of the  [QuadProg++](https://github.com/liuq/QuadProgpp) 
 
 Contributions and bug fixes are welcome.
 
-Copyright (C) 2006 Luca Di Gaspero, [MIT License].
+Copyright (C) 2006 Luca Di Gaspero, [MIT License](https://opensource.org/licenses/MIT).
 
 Copyright (C) 2006 - 2016 Angelo Furfaro, [<img src="https://www.gnu.org/graphics/lgplv3-88x31.png" alt="LGPL v3"/>](LICENSE).
