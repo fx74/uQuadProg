@@ -1,4 +1,4 @@
-/* file exmaple.C
+/* file example.C
 
  This file is an example on how uquadprog can be used
  by invoking solve_quadprog() function
@@ -26,8 +26,8 @@
  
  Author: Angelo Furfaro
  DEIS - University of Calabria, Italy
- a.furfaro@deis.unical.it
- http://www.lis.deis.unical.it/~furfaro
+ a.furfaro@dimes.unical.it
+ http://dev.dimes.unical.it/angelo
  
  LICENSE
  
