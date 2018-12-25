@@ -5,7 +5,7 @@ uQuadProg is a porting of the  [QuadProg++](https://github.com/liuq/QuadProgpp) 
 
 ## Contribution
 
-Contributions and bug fixes are welcome.
+Contributions and bug fixes are welcome .
 
 Copyright (C) 2006 Luca Di Gaspero, [MIT License](https://opensource.org/licenses/MIT).
 
